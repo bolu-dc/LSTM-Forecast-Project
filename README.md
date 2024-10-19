@@ -3,6 +3,7 @@
 Oil forecasting is a critical component in the oil and gas industry, providing essential insights for decision-making processes related to production planning, resource allocation, and financial forecasting. However, due to a myriad of issues, accurate prediction has been a major challenge in the oil and gas industry. This project addresses the challenges and complexities associated with accurate prediction of oil production by leveraging advanced machine learning techniques, specifically Long Short-Term Memory (LSTM) networks, to predict oil production rates based on historical data.
 
 **Background on LSTM Models**
+
 Long Short-Term Memory (LSTM) networks are a type of recurrent neural network (RNN) designed to learn from sequences of data. They are particularly well-suited for time series forecasting due to their ability to retain information over long periods and effectively handle the vanishing gradient problem, which can hinder the learning process in traditional RNNs. LSTMs utilize memory cells to store information for extended periods, allowing them to capture temporal dependencies in the data.
 
 This project involves the development of an LSTM-based model to predict oil production rates using historical production data. The steps undertaken in the project include:
